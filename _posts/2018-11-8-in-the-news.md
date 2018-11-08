@@ -13,6 +13,4 @@ The House of Representatives will be elected in its entirety (435 seats) on Nove
 # Senate
 In the upcoming November elections, a total of 35 senators will be elected, a little more than a third of the Senate. In its current composition, the Republican Party hold a narrow lead 52-48 over the Democratic Party.
 
-![_config.yml]({{ site.baseurl }}/pictures/voted_same_since_2020.jpg)
-
 [Read the story](https://www.univision.com/noticias/elecciones-2018/who-will-win-control-of-the-us-congress-in-2018)
