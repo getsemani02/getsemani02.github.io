@@ -9,7 +9,7 @@ permalink: /itse-2402/
 * [Valentin Martinez](https://valentin430.github.io/)
 * [Jasmine Garcias](https://jazm1ne.github.io/)
 * [Alexia Razo](https://alexia2402.github.io/)
-* [Alondra Soto] (https://ookawaiitostoo.github.io/)
+* [Alondra Soto](https://ookawaiitostoo.github.io/)
 * [Jared Jones](http://jared0425.github.io/)
 * [Kanesha Williams](https://kanesha00.github.io/)
 * [Marlen Carreno](https://marlencarreno.github.io/)
